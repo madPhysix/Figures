@@ -1,0 +1,8 @@
+C:\Users\Predator\source\repos\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+C:\Users\Predator\source\repos\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+C:\Users\Predator\source\repos\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+C:\Users\Predator\source\repos\FigureApp\FigureApp\obj\Debug\FigureApp.csproj.AssemblyReference.cache
+C:\Users\Predator\source\repos\FigureApp\FigureApp\obj\Debug\FigureApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Predator\source\repos\FigureApp\FigureApp\obj\Debug\FigureApp.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+C:\Users\Predator\source\repos\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
